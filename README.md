@@ -1,9 +1,10 @@
-<p align="center">
+<p align="left">
 
-  <br><br />
+ 
   <samp>
  Hi 我是Rio 👋 <br />
- 
+ 目前是一名前端工程師，專注於 Vue3.js 及 Nuxt3，熱衷於打造具有高效、動態且直覺的使用者體驗。<br/>
+「永遠不要滿足於現狀」-從實作中成長，讓興趣成為專長
   </samp>
 </p>
 
@@ -28,12 +29,15 @@
 <br />
 
 ## 🔷 精選專案
-### **【 標題 】** <br />
-> **簡述**
+### **【 CINEM影音串流平台 】** <br />
+> *一個專為喜歡精彩電影的你，深入影視宇宙，挖掘隱藏的寶藏電影與話題影集，帶來全新視覺享受。*
 
-📌 主要技術：
+📌 主要技術：Vue3 Options API, Bootstrap5, Vite, ESLint
+* [GitHub Repo](https://github.com/wei-1539/vue2024_week08)<br />
+* [網站連結](https://wei-1539.github.io/vue2024_week08/#/)<br />
 
 ---
+
 <br />
 
 ### 🔷 GitHub 活躍度
